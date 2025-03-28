@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bivek Acharya</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://pixabay.com/gifs/robot-future-science-fiction-108/">
+<img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif">
 
 - 📫 How to reach me **work.bivekacharya@gmail.com**
 
